@@ -1,7 +1,7 @@
 {
-  "name": "BlazorPwa.Client",
-  "short_name": "BlazorPwa.Client",
-  "start_url": "/",
+  "name": "BlazorPwa",
+  "short_name": "BlazorPwa",
+  "start_url": "/BlazorPwa/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#03173d",
